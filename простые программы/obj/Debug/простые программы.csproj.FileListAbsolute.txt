@@ -1,0 +1,29 @@
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\bin\Debug\простые программы.exe.config
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\bin\Debug\простые программы.exe
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\bin\Debug\простые программы.pdb
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.csproj.AssemblyReference.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\MainWindow.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\App.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы_MarkupCompile.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы_MarkupCompile.lref
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\MainWindow.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.g.resources
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые_программы.Properties.Resources.resources
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.csproj.GenerateResource.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.csproj.CoreCompileInputs.cache
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.exe
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\простые программы.pdb
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window1.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window2.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window3.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window4.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window1.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window2.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window3.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Window4.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Registration.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Navigation.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Registration.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Navigation.baml
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Cats.g.cs
+C:\Users\328-1\Desktop\shumkova_PR-31\простые программы\obj\Debug\Cats.baml

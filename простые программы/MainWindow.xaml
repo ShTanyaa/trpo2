@@ -1,0 +1,24 @@
+﻿<Window x:Class="простые_программы.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:простые_программы"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="0,0,0,-27">
+            <Label Content="Решение квадратного уравнения" FontSize="20"/>
+            <Label Content="a:" FontSize="20" Margin="25,0,10,0"/>
+            <TextBox Name="text1" Width="700" HorizontalAlignment="Left" Height="30" Margin="25,0,10,0" Background="White" FontSize="18"/>
+            <Label Content="b:" FontSize="20"  Margin="25,0,10,0"/>
+            <TextBox Name="text2" Width="700" HorizontalAlignment="Left" Height="30" Margin="25,0,10,0" Background="White" FontSize="18"/>
+            <Label Content="c:" FontSize="20"  Margin="25,0,10,0"/>
+            <TextBox Name="text3" Width="700" HorizontalAlignment="Left" Height="30" Margin="25,0,10,0" Background="White" FontSize="18"/>
+            <Label Content="Результат:" FontSize="20"  Margin="25,0,10,0"/>
+            <Label Name="rez" Content="" FontSize="20"  Margin="25,0,10,0"/>
+            <Button Content="решить" Name="button_Solve" FontSize="20" Width="700"  HorizontalAlignment="Left" Height="35" Margin="25,0,0,0" Background="LightGray" Click="SolveClick"/>
+            <Button Content="другое окно" FontSize="20" Width="700"  HorizontalAlignment="Left" Height="35" Margin="25,10,0,0" Background="LightGray" Click="Button_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
